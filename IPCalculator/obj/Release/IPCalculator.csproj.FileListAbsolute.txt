@@ -1,0 +1,10 @@
+C:\Users\Umschueler\source\repos\IPCalculator\IPCalculator\bin\Release\IPCalculator.exe.config
+C:\Users\Umschueler\source\repos\IPCalculator\IPCalculator\bin\Release\IPCalculator.exe
+C:\Users\Umschueler\source\repos\IPCalculator\IPCalculator\bin\Release\IPCalculator.pdb
+C:\Users\Umschueler\source\repos\IPCalculator\IPCalculator\obj\Release\IPCalculator.csproj.AssemblyReference.cache
+C:\Users\Umschueler\source\repos\IPCalculator\IPCalculator\obj\Release\IPCalculator.Form1.resources
+C:\Users\Umschueler\source\repos\IPCalculator\IPCalculator\obj\Release\IPCalculator.Properties.Resources.resources
+C:\Users\Umschueler\source\repos\IPCalculator\IPCalculator\obj\Release\IPCalculator.csproj.GenerateResource.cache
+C:\Users\Umschueler\source\repos\IPCalculator\IPCalculator\obj\Release\IPCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Umschueler\source\repos\IPCalculator\IPCalculator\obj\Release\IPCalculator.exe
+C:\Users\Umschueler\source\repos\IPCalculator\IPCalculator\obj\Release\IPCalculator.pdb
